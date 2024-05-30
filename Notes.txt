@@ -1,2 +1,23 @@
 Author: @RaghuveerReddyKallu
 Email: kalluraghureddy@gmail.com
+
+Todo's: employee-service
+___________________________
+
+- Add Spring Security with JWT, OAuth, etc...
+- Exceptions Handling
+- Validations
+- SwaggerUI
+- Register with Eureka Server
+- Integrate API GateWay
+- Spring Cloud Config
+- Actuator
+- Logging
+- Apache Kafka
+- Even Driven
+- Docker
+- Kubernetes
+
+
+
+
